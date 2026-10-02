@@ -2,7 +2,7 @@
 
 Os desafios de combo. Também num arquivo só, mas dá para separar por personagem pelo prefixo de três letras na coluna `key`.
 
-_Atualizado em 2026-10-01._
+_Atualizado em 2026-10-02._
 
 | Item | Arquivo | Frases | Situação | Tradutor | Revisor |
 | --- | --- | ---: | --- | --- | --- |

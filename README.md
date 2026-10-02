@@ -31,9 +31,9 @@ imagens. É o material de trabalho da equipe.
 | Tutorial | A fazer | [abrir](progresso/tutorial.md) |
 | Missões | A fazer | [abrir](progresso/missoes.md) |
 | Menus e Sistema | Em andamento (55%) | [abrir](progresso/menus.md) |
-| Imagens com texto | Em andamento (33%) | [abrir](progresso/imagens.md) |
+| Imagens com texto | Em andamento (39%) | [abrir](progresso/imagens.md) |
 
-_Atualizado em 2026-10-01._
+_Atualizado em 2026-10-02._
 
 <!-- progresso:fim -->
 
@@ -98,6 +98,25 @@ pedir outra ordem.
 Quem pegar imagens recebe PNGs comuns. Troque as palavras e **salve no mesmo
 tamanho em pixels** — o jogo recorta essas imagens em pedaços de medida fixa,
 então mudar a altura ou a largura desalinha tudo na tela.
+
+### Imagens que a ferramenta ainda não remonta sozinha
+
+Alguns atlas guardam as páginas comprimidas dentro do `.pat`, e o leitor do
+uni2loc só enxerga as páginas cruas. Os PNGs traduzidos destes arquivos estão
+no repositório e o mod instalado já os usa, mas `uni2loc images build` passa
+por eles sem reempacotar:
+
+- `grpdat/Cockpit/gauge_ef01.pat` — painel de frames e cabeçalhos do dano
+- `grpdat/CSel/csel00.pat` (página `single_00`) — topo da seleção de personagem
+- `grpdat/Customize/customize00.pat`
+- `grpdat/Gallery/gallery00.pat`
+- `grpdat/Network/new/network00.pat`
+- `grpdat/System/sys_combo00.pat` — rótulos de dano
+- `grpdat/singleplay/sp_prof00.pat` — perfis do modo arcade
+
+Enquanto isso não for resolvido, rodar `images build` por cima de um `build/`
+pronto devolve essas páginas ao original. Reinstale a partir de um `build/`
+completo, ou refaça essas páginas à mão.
 
 ---
 

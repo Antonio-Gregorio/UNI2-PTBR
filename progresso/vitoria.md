@@ -2,7 +2,7 @@
 
 As falas que aparecem na tela de resultado depois de ganhar uma luta.
 
-_Atualizado em 2026-10-01._
+_Atualizado em 2026-10-02._
 
 | Item | Arquivo | Frases | Situação | Tradutor | Revisor |
 | --- | --- | ---: | --- | --- | --- |

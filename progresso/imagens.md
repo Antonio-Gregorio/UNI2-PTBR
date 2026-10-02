@@ -3,10 +3,12 @@
 Texto desenhado dentro da imagem. Precisa de editor gráfico, não de planilha.
 Abra o PNG, troque as palavras e **não mude o tamanho em pixels**.
 
-_Atualizado em 2026-10-01. 15 de 45 prontas._
+_Atualizado em 2026-10-02. 19 de 49 prontas._
 
 | Imagem | Arquivo | Situação | Quem fez | Revisor |
 | --- | --- | --- | --- | --- |
+| csel00.pat | `uni2-ptbr/images/___English/grpdat/CSel/csel00.pat` | **Pronto** | | |
+| stage_select00.pat | `uni2-ptbr/images/___English/grpdat/CSel/stage_select00.pat` | **Pronto** | | |
 | customize_list00.dds | `uni2-ptbr/images/___English/grpdat/Customize/customize_list00.dds` | **Pronto** | | |
 | gallery_list00.dds | `uni2-ptbr/images/___English/grpdat/Gallery/gallery_list00.dds` | **Pronto** | | |
 | mainmenu_bg00.pat | `uni2-ptbr/images/___English/grpdat/MainMenuCS/mainmenu_bg00.pat` | **Pronto** | | |
@@ -17,14 +19,14 @@ _Atualizado em 2026-10-01. 15 de 45 prontas._
 | single_list00.dds | `uni2-ptbr/images/___English/grpdat/singleplay/single_list00.dds` | **Pronto** | | |
 | sys_win_title10.dds | `uni2-ptbr/images/___English/grpdat/System/sys_win_title10.dds` | **Pronto** | | |
 | tutorial00.dds | `uni2-ptbr/images/___English/grpdat/System/tutorial00.dds` | **Pronto** | | |
+| gauge_00.dds | `uni2-ptbr/images/grpdat/Cockpit/gauge_00.dds` | **Pronto** | | |
 | sys_controller00.dds | `uni2-ptbr/images/grpdat/System/sys_controller00.dds` | **Pronto** | | |
 | sys_win_title00.dds | `uni2-ptbr/images/grpdat/System/sys_win_title00.dds` | **Pronto** | | |
 | sys_win_title01.dds | `uni2-ptbr/images/grpdat/System/sys_win_title01.dds` | **Pronto** | | |
 | sys_win_title02.dds | `uni2-ptbr/images/grpdat/System/sys_win_title02.dds` | **Pronto** | | |
 | sys_win_title0s_steam.dds | `uni2-ptbr/images/grpdat/System/sys_win_title0s_steam.dds` | **Pronto** | | |
+| sys_win00.dds | `uni2-ptbr/images/grpdat/System/sys_win00.dds` | **Pronto** | | |
 | talk00.dds | `uni2-ptbr/images/___English/BattleRes/talk/st_grp/talk00.dds` | A fazer | | |
-| csel00.pat | `uni2-ptbr/images/___English/grpdat/CSel/csel00.pat` | A fazer | | |
-| stage_select00.pat | `uni2-ptbr/images/___English/grpdat/CSel/stage_select00.pat` | A fazer | | |
 | customize00.pat | `uni2-ptbr/images/___English/grpdat/Customize/customize00.pat` | A fazer | | |
 | NewCezanne-B_16_0.dds | `uni2-ptbr/images/___English/grpdat/Font/NewCezanne-B_16_0.dds` | A fazer | | |
 | NewCezanne-B_16_1.dds | `uni2-ptbr/images/___English/grpdat/Font/NewCezanne-B_16_1.dds` | A fazer | | |
@@ -38,6 +40,7 @@ _Atualizado em 2026-10-01. 15 de 45 prontas._
 | round_d00.pat | `uni2-ptbr/images/grpdat/Announce/round_d00.pat` | A fazer | | |
 | result_m00.dds | `uni2-ptbr/images/grpdat/BattleResult/result_m00.dds` | A fazer | | |
 | result00.pat | `uni2-ptbr/images/grpdat/BattleResult/result00.pat` | A fazer | | |
+| gauge_ef01.pat | `uni2-ptbr/images/grpdat/Cockpit/gauge_ef01.pat` | A fazer | | |
 | gameover00.pat | `uni2-ptbr/images/grpdat/Continue/gameover00.pat` | A fazer | | |
 | customize_list00.dds | `uni2-ptbr/images/grpdat/Customize/customize_list00.dds` | A fazer | | |
 | gallery_list00.dds | `uni2-ptbr/images/grpdat/Gallery/gallery_list00.dds` | A fazer | | |
@@ -49,6 +52,7 @@ _Atualizado em 2026-10-01. 15 de 45 prontas._
 | replay00.pat | `uni2-ptbr/images/grpdat/Network/new/replay00.pat` | A fazer | | |
 | single_list00.dds | `uni2-ptbr/images/grpdat/singleplay/single_list00.dds` | A fazer | | |
 | result_mes00.dds | `uni2-ptbr/images/grpdat/System/result_mes00.dds` | A fazer | | |
+| sys_combo00.pat | `uni2-ptbr/images/grpdat/System/sys_combo00.pat` | A fazer | | |
 | tutorial00.dds | `uni2-ptbr/images/grpdat/System/tutorial00.dds` | A fazer | | |
 | result_mes00.dds | `uni2-ptbr/images/grpdat/Winner/result_mes00.dds` | A fazer | | |
 | winner_bg00.pat | `uni2-ptbr/images/grpdat/Winner/winner_bg00.pat` | A fazer | | |

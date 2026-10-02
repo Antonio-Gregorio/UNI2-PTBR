@@ -2,7 +2,7 @@
 
 Telas de opção, mensagens de erro, nomes de golpes. A maior parte já está pronta.
 
-_Atualizado em 2026-10-01._
+_Atualizado em 2026-10-02._
 
 | Item | Arquivo | Frases | Situação | Tradutor | Revisor |
 | --- | --- | ---: | --- | --- | --- |
@@ -16,7 +16,7 @@ _Atualizado em 2026-10-01._
 | stringfile_battlevoice | `uni2-ptbr/text/System/str_jp/stringfile_battlevoice.csv.csv` | 641 | A fazer | | |
 | stringfile_command | `uni2-ptbr/text/System/str_jp/stringfile_command.csv.csv` | 34 | **Pronto** | | |
 | stringfile_mission | `uni2-ptbr/text/System/str_jp/stringfile_mission.csv.csv` | 70 | **Pronto** | | |
-| stringfile_tutorial | `uni2-ptbr/text/System/str_jp/stringfile_tutorial.csv.csv` | 186 | Em andamento (98%) | | |
+| stringfile_tutorial | `uni2-ptbr/text/System/str_jp/stringfile_tutorial.csv.csv` | 192 | Em andamento (98%) | | |
 | sysstring | `uni2-ptbr/text/System/str_jp/sysstring.ini.csv` | 147 | Em andamento (93%) | | |
 | dialog | `uni2-ptbr/text/grpdat/Network/csv/dialog.csv.csv` | 189 | **Pronto** | | |
 | cmddef_name | `uni2-ptbr/text/grpdat/command/cmddef_name.ini.csv` | 631 | A fazer | | |
