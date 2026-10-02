@@ -135,6 +135,11 @@ do jogo*, que devolve tudo ao normal.
       <strong>Willyofruit</strong><br>
       <sub>Organizadora</sub>
     </td>
+    <td align="center" width="180">
+      <img src="creditos/eltnum.png" width="110" alt="Willyofruit"><br>
+      <strong>Cultyhud</strong><br>
+      <sub>Tradutora</sub>
+    </td>
   </tr>
 </table>
 
