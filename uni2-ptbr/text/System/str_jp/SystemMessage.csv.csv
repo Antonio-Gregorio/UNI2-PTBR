@@ -1,0 +1,5 @@
+﻿"key";"source_en";"source_slot";"target";"note"
+"MESSAGE_ID__NETWORK_START_CONTROLLER_ID_ERROR";"Only the controller that started the game can be used to play Network mode.";"Solo il controller che ha avviato il gioco può essere utilizzato per partecipare alla modalità Online.";"Só o controle que iniciou o jogo pode ser usado no modo online.";""
+"MESSAGE_ID__NETWORK_START_CONTROLLER_ID_CHECK_ERROR";"An error occurred while checking the startup controller for Network mode.";"Si è verificato un errore durante la verifica del controller d'avvio per la modalità Online.";"Ocorreu um erro ao verificar o controle de inicialização do modo online.";""
+"MESSAGE_ID__NETWORK_INVITATION_ROOM_VERSION_ERROR";"The game versions do not match.⏎Please make sure you're using a compatible version of the game.";"Le versioni di gioco non corrispondono.⏎Assicurati di utilizzare una versione di gioco compatibile.";"As versões do jogo não combinam.⏎Confira se vocês estão usando uma versão compatível.";""
+"MESSAGE_ID__MAINMANU_PSSTORE_CONFIRM";"Proceed to PlayStation%TM%Store?";"Andare a PlayStation%TM%Store?";"Ir para a PlayStation%TM%Store?";""

@@ -1,0 +1,28 @@
+# A ferramenta que monta e instala o mod. Não entra no repositório: ela é
+# passada à parte para quem vai montar a versão final. Aqui ficam só os
+# arquivos de tradução.
+uni2-loc/
+
+# Cópias cruas de arquivos do jogo. São geradas a partir da sua própria cópia
+# do UNI2 e não devem ser redistribuídas.
+uni2-ptbr/images/_original/
+uni2-ptbr/backup/
+uni2-ptbr/extract/
+uni2-ptbr/catalog.json
+
+# O mod montado: é o resultado, não a fonte.
+uni2-ptbr/build/
+
+# Folhas de contato, geradas sob demanda.
+uni2-ptbr/images/_sheets/
+
+# Caminho da instalação local, diferente em cada máquina.
+uni2-ptbr/uni2loc.json
+
+# Lixo de sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+node_modules/
+*.tmp
+~$*

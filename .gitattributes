@@ -1,0 +1,16 @@
+# As planilhas de tradução precisam voltar do repositório exatamente como
+# saíram: o jogo é sensível a quebra de linha e a codificação de caracteres.
+# Por isso o Git não deve converter nada dentro delas.
+*.csv -text
+*.ini -text
+
+# Imagens e fontes: binário.
+*.png binary
+*.dds binary
+*.fnt binary
+*.pat binary
+
+# Documentação: pode normalizar à vontade.
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
