@@ -6,10 +6,10 @@ _Atualizado em 2026-10-04._
 
 | Item | Arquivo | Frases | Situação | Tradutor | Revisor |
 | --- | --- | ---: | --- | --- | --- |
-| ArcadeTalkMessageConfig | `uni2-ptbr/text/BattleRes/talk/script/ArcadeTalkMessageConfig.ini.csv` | 34 | A fazer | | |
-| talk_chara_name_table | `uni2-ptbr/text/BattleRes/talk/script/talk_chara_name_table.csv.csv` | 83 | A fazer | | |
-| ed_cg_info | `uni2-ptbr/text/BattleRes/talk/st_ending/ed_cg_info.csv.csv` | 4 | A fazer | | |
-| BtlCharaTbl_str | `uni2-ptbr/text/System/BtlCharaTbl_str.ini.csv` | 28 | A fazer | | |
+| ArcadeTalkMessageConfig | `uni2-ptbr/text/BattleRes/talk/script/ArcadeTalkMessageConfig.ini.csv` | 34 | **Pronto** | Yuko | |
+| talk_chara_name_table | `uni2-ptbr/text/BattleRes/talk/script/talk_chara_name_table.csv.csv` | 83 | **Pronto** | Yuko | |
+| ed_cg_info | `uni2-ptbr/text/BattleRes/talk/st_ending/ed_cg_info.csv.csv` | 4 | **Pronto** | Yuko | |
+| BtlCharaTbl_str | `uni2-ptbr/text/System/BtlCharaTbl_str.ini.csv` | 28 | **Pronto** | Yuko | |
 | IpPlusDialog | `uni2-ptbr/text/System/str_jp/IpPlusDialog.csv.csv` | 2 | **Pronto** | Yuko | |
 | SystemMessage | `uni2-ptbr/text/System/str_jp/SystemMessage.csv.csv` | 4 | **Pronto** | Yuko | |
 | global_replace_word | `uni2-ptbr/text/System/str_jp/global_replace_word.csv.csv` | 1300 | Em andamento (93%) | Yuko | |

@@ -30,7 +30,7 @@ imagens. É o material de trabalho da equipe.
 | Frases de Vitória | A fazer | [abrir](progresso/vitoria.md) |
 | Tutorial | A fazer | [abrir](progresso/tutorial.md) |
 | Missões | A fazer | [abrir](progresso/missoes.md) |
-| Menus e Sistema | Em andamento (81%) | [abrir](progresso/menus.md) |
+| Menus e Sistema | Em andamento (85%) | [abrir](progresso/menus.md) |
 | Imagens com texto | Em andamento (39%) | [abrir](progresso/imagens.md) |
 
 _Atualizado em 2026-10-04._
