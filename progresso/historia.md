@@ -2,7 +2,7 @@
 
 Os diálogos de arcade, um personagem por linha. É o maior volume do jogo — cada pasta tem vários arquivos, abra todos.
 
-_Atualizado em 2026-10-02._
+_Atualizado em 2026-10-04._
 
 | Item | Arquivo | Frases | Situação | Tradutor | Revisor |
 | --- | --- | ---: | --- | --- | --- |

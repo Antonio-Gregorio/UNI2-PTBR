@@ -30,10 +30,10 @@ imagens. É o material de trabalho da equipe.
 | Frases de Vitória | A fazer | [abrir](progresso/vitoria.md) |
 | Tutorial | A fazer | [abrir](progresso/tutorial.md) |
 | Missões | A fazer | [abrir](progresso/missoes.md) |
-| Menus e Sistema | Em andamento (55%) | [abrir](progresso/menus.md) |
+| Menus e Sistema | Em andamento (81%) | [abrir](progresso/menus.md) |
 | Imagens com texto | Em andamento (39%) | [abrir](progresso/imagens.md) |
 
-_Atualizado em 2026-10-02._
+_Atualizado em 2026-10-04._
 
 <!-- progresso:fim -->
 
@@ -147,7 +147,7 @@ do jogo*, que devolve tudo ao normal.
     <td align="center" width="180">
       <img src="creditos/yuzuriha.png" width="110" alt="Yuko"><br>
       <strong>Yuko</strong><br>
-      <sub>Organizador</sub>
+      <sub>Organizador e Tradutor</sub>
     </td>
     <td align="center" width="180">
       <img src="creditos/orie.png" width="110" alt="Willyofruit"><br>

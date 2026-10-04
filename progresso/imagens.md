@@ -3,7 +3,7 @@
 Texto desenhado dentro da imagem. Precisa de editor gráfico, não de planilha.
 Abra o PNG, troque as palavras e **não mude o tamanho em pixels**.
 
-_Atualizado em 2026-10-02. 19 de 49 prontas._
+_Atualizado em 2026-10-04. 19 de 49 prontas._
 
 | Imagem | Arquivo | Situação | Quem fez | Revisor |
 | --- | --- | --- | --- | --- |
