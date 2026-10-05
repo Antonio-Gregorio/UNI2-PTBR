@@ -2,7 +2,7 @@
 
 As falas que aparecem na tela de resultado depois de ganhar uma luta.
 
-_Atualizado em 2026-10-04._
+_Atualizado em 2026-10-05._
 
 | Item | Arquivo | Frases | Situação | Tradutor | Revisor |
 | --- | --- | ---: | --- | --- | --- |
@@ -22,7 +22,7 @@ _Atualizado em 2026-10-04._
 | Byakuya | `uni2-ptbr/text/BattleRes/win_mes/script/chr013/winmes.csv.csv` | 31 | A fazer | | |
 | Akatsuki | `uni2-ptbr/text/BattleRes/win_mes/script/chr014/winmes.csv.csv` | 20 | A fazer | | |
 | Chaos | `uni2-ptbr/text/BattleRes/win_mes/script/chr015/winmes.csv.csv` | 24 | A fazer | | |
-| Wagner | `uni2-ptbr/text/BattleRes/win_mes/script/chr016/winmes.csv.csv` | 28 | A fazer | | |
+| Wagner | `uni2-ptbr/text/BattleRes/win_mes/script/chr016/winmes.csv.csv` | 28 | **Pronto** | Dracorom | Yuko |
 | Enkidu | `uni2-ptbr/text/BattleRes/win_mes/script/chr017/winmes.csv.csv` | 20 | A fazer | | |
 | Londrekia | `uni2-ptbr/text/BattleRes/win_mes/script/chr018/winmes.csv.csv` | 19 | A fazer | | |
 | Tsurugi | `uni2-ptbr/text/BattleRes/win_mes/script/chr019/winmes.csv.csv` | 16 | A fazer | | |

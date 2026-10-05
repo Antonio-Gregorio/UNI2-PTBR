@@ -27,13 +27,13 @@ imagens. É o material de trabalho da equipe.
 | Área | Situação | Detalhes |
 | --- | --- | --- |
 | Modo História | A fazer | [abrir](progresso/historia.md) |
-| Frases de Vitória | A fazer | [abrir](progresso/vitoria.md) |
+| Frases de Vitória | Em andamento (5%) | [abrir](progresso/vitoria.md) |
 | Tutorial | A fazer | [abrir](progresso/tutorial.md) |
 | Missões | A fazer | [abrir](progresso/missoes.md) |
 | Menus e Sistema | **Pronto** | [abrir](progresso/menus.md) |
 | Imagens com texto | Em andamento (39%) | [abrir](progresso/imagens.md) |
 
-_Atualizado em 2026-10-04._
+_Atualizado em 2026-10-05._
 
 <!-- progresso:fim -->
 
@@ -158,6 +158,11 @@ do jogo*, que devolve tudo ao normal.
       <img src="creditos/eltnum.png" width="110" alt="Willyofruit"><br>
       <strong>Cultyhud</strong><br>
       <sub>Tradutora</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="creditos/wagner.png" width="110" alt="Dracorom"><br>
+      <strong>Dracorom</strong><br>
+      <sub>Tradutor</sub>
     </td>
   </tr>
 </table>
